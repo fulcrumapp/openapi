@@ -1,0 +1,16 @@
+name: openapi
+id: ari:cloud:compass:9233df39-e597-47e6-ab42-e07f4d48709c:component/30d7834e-f829-4e6c-9b1b-cc6d8c1e56c5/8be5c7d6-f228-4338-82d3-371424e70e59
+description: Fulcrum OpenAPI Specification
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/fulcrumapp/openapi
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
